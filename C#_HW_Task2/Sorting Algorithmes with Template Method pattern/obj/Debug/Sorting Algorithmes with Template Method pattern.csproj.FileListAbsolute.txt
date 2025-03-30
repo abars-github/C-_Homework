@@ -1,0 +1,7 @@
+C:\Users\Artur\Desktop\C#_HW_Task2\Sorting Algorithmes with Template Method pattern\obj\Debug\Sorting Algorithmes with Template Method pattern.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\C#_HW_Task2\Sorting Algorithmes with Template Method pattern\obj\Debug\Sorting Algorithmes with Template Method pattern.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\C#_HW_Task2\Sorting Algorithmes with Template Method pattern\bin\Debug\Sorting Algorithmes with Template Method pattern.exe.config
+C:\Users\Artur\Desktop\C#_HW_Task2\Sorting Algorithmes with Template Method pattern\bin\Debug\Sorting Algorithmes with Template Method pattern.exe
+C:\Users\Artur\Desktop\C#_HW_Task2\Sorting Algorithmes with Template Method pattern\bin\Debug\Sorting Algorithmes with Template Method pattern.pdb
+C:\Users\Artur\Desktop\C#_HW_Task2\Sorting Algorithmes with Template Method pattern\obj\Debug\Sorting Algorithmes with Template Method pattern.exe
+C:\Users\Artur\Desktop\C#_HW_Task2\Sorting Algorithmes with Template Method pattern\obj\Debug\Sorting Algorithmes with Template Method pattern.pdb
