@@ -1,0 +1,14 @@
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\bin\Debug\net8.0\SortingStrategies.exe
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\bin\Debug\net8.0\SortingStrategies.deps.json
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\bin\Debug\net8.0\SortingStrategies.runtimeconfig.json
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\bin\Debug\net8.0\SortingStrategies.dll
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\bin\Debug\net8.0\SortingStrategies.pdb
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\SortingStrategies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\SortingStrategies.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\SortingStrategies.AssemblyInfo.cs
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\SortingStrategies.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\SortingStrategies.dll
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\refint\SortingStrategies.dll
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\SortingStrategies.pdb
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\SortingStrategies.genruntimeconfig.cache
+C:\Users\Artur\Desktop\C#_Task3\SortingStrategies\obj\Debug\net8.0\ref\SortingStrategies.dll
